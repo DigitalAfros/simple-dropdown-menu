@@ -43,8 +43,8 @@ jQuery(document).ready(function ($) {
 
 		});
 		 
-		console.log('%c thatAfro', 'font-size: 20px; color: #0066ff;');
-		console.log('%c #000000 {lives: matter}', 'font-size: 16px; color: #ffffff;');
+		console.log('%c thatAfro', 'font-size: 18px;');
+		console.log('%c #000000 {lives: matter}', 'font-size: 14px;');
 
 		// Switch to mobile Menu at -768px screen size
  		$(window).resize(function () {
