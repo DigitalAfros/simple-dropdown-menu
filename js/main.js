@@ -44,6 +44,7 @@ jQuery(document).ready(function ($) {
 		});
 		 
 		console.log('%c thatAfro', 'font-size: 20px; color: #0066ff;');
+		console.log('%c #000000 {lives: matter}', 'font-size: 16px; color: #ffffff;');
 
 		// Switch to mobile Menu at -768 screen size
  		$(window).resize(function () {
