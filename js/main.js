@@ -43,7 +43,7 @@ jQuery(document).ready(function ($) {
 
 		});
 		 
-		console.log('%c thatAfro', 'font-weight: bold; font-size: 40px; color: #0066ff; text-shadow: 3px 3px 0 #004dc0 ');
+		console.log('%c thatAfro', 'font-size: 20px; color: #0066ff;');
 
 		// Switch to mobile Menu at -768 screen size
  		$(window).resize(function () {
