@@ -312,10 +312,11 @@ main:before {
 }
 
 .site-mobile-menu .site-nav-wrap a {
-	padding: 10px 20px;
-	display: block;
-	position: relative;
 	color: #212529;
+	display: block;
+	padding: 10px 20px;
+	position: relative;
+	text-decoration: none;
 }
 
 .site-mobile-menu .site-nav-wrap a:hover {
