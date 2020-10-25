@@ -34,11 +34,9 @@
     float: right !important;
 }
 
-.container {
+.content-area {
     width: 100%;
-    max-width: 95%;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 0 15px 0;
     margin-right: auto;
     margin-left: auto;
 }
