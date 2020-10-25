@@ -278,8 +278,8 @@ main:before {
 }
 
 .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close {
-	float: right;
-	margin-top: 8px;
+	float: left;
+	margin: 8px 0 0 -1em;
 }
 
 .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close span {
